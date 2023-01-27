@@ -1,0 +1,46 @@
+/*
+Theme Name: API_Itwasjoke
+Theme URI: none
+Author: Andrey
+Author URI: Andrey
+Description: The blank wordpress theme
+Version: 1.0.0
+Text Domain: API_Itwasjoke
+License: GPLv2 or later
+*/
+/*@import url("./css/app.css");*/
+
+/*@font-face {
+    font-family: 'Avenir Next';
+    src: local('/fonts/Avenir Next Italic'), local('/fonts/Avenir-Next-Italic'),
+        url('/fonts/AvenirNextCyr-Italic.woff2') format('woff2'),
+        url('/fonts/AvenirNextCyr-Italic.woff') format('woff'),
+        url('/fonts/AvenirNextCyr-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+  }*/
+
+/*@font-face {
+    font-family: 'Avenir Next';
+    src: local('/fonts/Avenir Next Regular'), local('/fonts/Avenir-Next-Regular'),
+        url('/fonts/AvenirNextCyr-Regular.woff2') format('woff2'),
+        url('/fonts/AvenirNextCyr-Regular.woff') format('woff'),
+        url('/fonts/AvenirNextCyr-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  };*/
+
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@400;600;700&display=swap");
+@import url("./css/bootstrap.css");
+@import url("./css/bootstrap-utilities.css");
+@import url("./css/bootstrap-reboot.css");
+@import url("./css/bootstrap-grid.css");
+/*@import url("./css/main.css");*/
+/*@import url("./css/header.css");*/
+
+
+
+ 
